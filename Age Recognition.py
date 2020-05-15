@@ -1,3 +1,7 @@
+'''
+Code By:Rushikesh Patil
+This is age recognising programm which tells you your age and the year when you will be 100 years old
+'''
 restart='Yes'
 while restart=='Yes':
     age_bod=int(input('Please enter your age or birth date: '))

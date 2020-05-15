@@ -1,3 +1,8 @@
+'''
+Code By:Rushikesh Patil
+It is a bankaccount which tells you bank balance, account owner and balance after withdrawl and depotion 
+of money also.
+'''
 class Account():
 	Balance=100
 	def __init__(self,Owner,Balance):

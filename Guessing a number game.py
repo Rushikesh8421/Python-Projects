@@ -1,3 +1,10 @@
+'''
+Code By:Rushikesh Patil
+This is a game in which you have 3 chances and need to choose number betweent 0 and 10 and if the number which
+you have choosen matches the number which computer had choosen then you will win else you will lose the game
+''' 
+
+
 import random 
 play_again='y'
 while play_again=='y':
